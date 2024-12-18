@@ -1,1 +1,10 @@
-In this repository, using Scrapy, BeautifulSoup, Requests, Regex, the information of several reliable sites has been extracted.
+# Repository Overview
+
+This repository demonstrates web scraping techniques using the following tools:
+
+- **Scrapy**
+- **BeautifulSoup**
+- **Requests**
+- **Regex**
+
+Data is extracted from multiple reputable websites  .
